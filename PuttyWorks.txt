@@ -1,0 +1,2 @@
+So logging onto 3667 student machine works!
+Now I need to figure out a way to do it through VS Code.
